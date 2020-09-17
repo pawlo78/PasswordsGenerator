@@ -61,8 +61,13 @@
         }
 
         .margin-top {
-          margin-top: 20px;
+          margin-top: 10px;
         } 
+
+        .my-padding {
+          padding: 10px;
+        } 
+
     </style>
   </head>
 <body>

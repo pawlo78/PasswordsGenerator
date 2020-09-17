@@ -4,7 +4,7 @@ namespace App;
 
 require_once("src/Controller.php");
 
-
+//ar_dump($_POST);
 
 $request = [
     'post' => $_POST,    
