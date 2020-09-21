@@ -74,9 +74,9 @@
     </div>
   </div> 
   <div class="form-group">
-    <button name="submit" type="submit" class="btn btn-primary" value="submit">Submit</button>
+    <button name="submit" type="submit" class="btn btn-primary" value="submit">Generate</button>
   </div>
   <div class="form-group">
-    <a href="https://github.com/pawlo78/Calendar" class="btn btn-primary active center" target="_blank" role="button" aria-pressed="true">Go to github</a>
+    <a href="https://github.com/pawlo78/PasswordsGenerator" class="btn btn-primary active center" target="_blank" role="button" aria-pressed="true">Go to github</a>
   </div>
 </form>
